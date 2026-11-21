@@ -1,5 +1,4 @@
 str = "Pankaj"
-
 result = ""
 for i in str:
     vowel = "AEIOUaeiou"
